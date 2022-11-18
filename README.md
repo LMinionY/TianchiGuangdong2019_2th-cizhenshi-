@@ -90,12 +90,14 @@ python setup.py develop
 
 1.确保数据集数据结构如下所示：
 
+```
 |–data
  	|–guangdong1_round2_train_part1_20190924
 	|–guangdong1_round2_train_part2_20190924
  	|–guangdong1_round2_train_part3_20190924
 	|–guangdong1_round2_train2_20191004_images
  	|–guangdong1_round2_train2_20191004_Annotations
+```
 
 2.解压原始数据，原始数据将会解压到data 目录下
 
