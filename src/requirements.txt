@@ -6,7 +6,7 @@ terminaltables
 pycocotools
 torch==1.1.0
 torchvision==0.3.0
-imagecorruptions==1.1.1
+imagecorruptions==1.1.0
 
 tqdm
 icecream
